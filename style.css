@@ -1,0 +1,74 @@
+#btn{
+    font-size: 60px;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: cadetblue;
+}
+h1{
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: rgba(80, 154, 215, 0.889);
+    border-radius: 20px;
+    border-color: black;
+}
+#lbl{
+    font-size: 60px;
+}
+img{
+block-size: 60px;
+border-width:5px;
+border-color: aquamarine;
+border-radius:7px;
+}
+button{
+    font-size:60px;
+    background-color: aqua;
+    border-radius: 15px;
+    border-width: 6px;
+    border-color:blueviolet;
+    text-decoration-color: antiquewhite;
+    -webkit-text-fill-color: rgba(0, 150, 150, 0.774);
+    font-family: sans-serif;
+    
+}
+#secret{
+    font-size:1px;
+    border-color: rgba(80, 154, 215, 0.889);
+    background-color: rgba(80, 154, 215, 0.889);
+    color: rgba(80, 154, 215, 0.889);
+    border-width: 0px;
+    
+}
+hr{
+    height: 8px;
+    background-color:darkblue;
+    border-width:0px;
+}
+img:hover{
+    block-size: 70px;
+}
+button:hover{
+    font-size: 75px;
+    border-color: blue;
+}
+#btn:hover{
+    font-size: 75px;
+    border-color:black;
+}
+#btn:-ms-expand{
+    background-color: brown;
+}
+#hdj{
+    font-size:250px;
+}
+#gg{
+    block-size: 250px;
+}
+#ccc{
+    color:aquamarine;
+}
+#poopy{
+    font-size: 280px;
+}
